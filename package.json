@@ -1,0 +1,23 @@
+{
+  "name": "trabajo-integrador",
+  "version": "1.0.0",
+  "description": "Proyecto integrador codo a cod fullstack java",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/23ALX2227/Trabajo-Integrador.git"
+  },
+  "keywords": [
+    "trabajo",
+    "integrador"
+  ],
+  "author": "Alexander <alxander89@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/23ALX2227/Trabajo-Integrador/issues"
+  },
+  "homepage": "https://github.com/23ALX2227/Trabajo-Integrador#readme"
+}
